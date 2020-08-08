@@ -1,6 +1,6 @@
 # Cancer Diagnosis Using Machine Learning
 
-1. I implemented 4 different classification algorithms to determine if a candidate has breast cancer. For this, I used Python 3 and the Numpy package.
+1. Implemented 4 different classification algorithms to determine if a candidate has breast cancer. For this, I used Python 3 and the Numpy package.
 
 2. All the code will be run through the run_code.py file.
 
