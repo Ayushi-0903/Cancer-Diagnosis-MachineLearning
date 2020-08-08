@@ -1,4 +1,4 @@
-# Predicting Cancer
+# Cancer Diagnosis Using Machine Learning
 
 1. I implemented 4 different classification algorithms to determine if a candidate has breast cancer. For this, I used Python 3 and the Numpy package.
 
